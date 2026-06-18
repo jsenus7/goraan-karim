@@ -1,0 +1,6 @@
+{
+  "name": "Islamic Companion",
+  "description": "A comprehensive Islamic companion app featuring accurate prayer times, Adhan alerts, Qibla compass, Quran reader with multi-qari audio, digital Tasbih, Duas, and complete offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
